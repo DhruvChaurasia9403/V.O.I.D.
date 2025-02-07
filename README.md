@@ -16,7 +16,7 @@ A Flutter-based AI chatbot application powered by **Gemini AI**, designed to pro
 
 | Chat Screen                              | Background Blur when Typing                  | Loading Animation while AI is Typing     | AI Response with User Message                |
 |------------------------------------------|----------------------------------------------|------------------------------------------|----------------------------------------------|
-| ![Chat UI](assets/screenshots/VOID4.png) | ![Blur Effect](assets/screenshots/void3.png) | ![Loading](assets/screenshots/VOID2.png) | ![AI Response](assets/screenshots/VOID1.png) |
+| ![Chat UI](assets/screenshots/VOID4.jpg) | ![Blur Effect](assets/screenshots/VOID3.jpg) | ![Loading](assets/screenshots/VOID2.jpg) | ![AI Response](assets/screenshots/VOID1.jpg) |
 
 *(Make sure these images exist in `assets/screenshots/` before committing!)*
 

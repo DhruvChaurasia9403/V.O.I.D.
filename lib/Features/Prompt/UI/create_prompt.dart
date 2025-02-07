@@ -155,8 +155,6 @@ class _CreatePromptScreenState extends State<CreatePromptScreen> with WidgetsBin
                                 minLines: 1,
                                 decoration: InputDecoration(
                                   contentPadding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
-                                  suffixIcon: Icon(Icons.image, color: Colors.white),
-                                  suffix: const SizedBox(width: 4),
                                   hintText: "Ask Artificial Intelligence",
                                   hintStyle: TextStyle(color: Theme.of(context).primaryColor),
                                   border: OutlineInputBorder(borderRadius: BorderRadius.circular(8)),

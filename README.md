@@ -1,16 +1,28 @@
-# artificial_intelegence
+# **artificial_intelegence**
 
-A new Flutter project.
+A Flutter-based AI chatbot application powered by **Gemini AI**, designed to provide real-time AI-generated responses with a sleek UI.
 
-## Getting Started
+## **Features**
 
-This project is a starting point for a Flutter application.
+- ✨ **Real-time Chat** – Engage with an AI chatbot seamlessly.
+- 📱 **Sleek UI** – Modern chat interface with smooth animations.
+- 🤖 **AI Response Generation** – Uses Google's Gemini API for intelligent responses.
+- 🔥 **State Management** – Implemented using **Flutter BLoC** for efficient state handling.
+- 🎨 **Lottie Animations** – Enhanced UI with engaging animations.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## **Screenshots**
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Chat Screen                          | Background Blur when typing              | Loading Animation when AI is typing      | AI Response with User Message               |
+|--------------------------------------|------------------------------------------|------------------------------------------|---------------------------------------------|
+| ![Chat UI](assets/screenshots/VOID4) | ![AI Response](assets/screenshots/VOID3) | ![Loading Animation](assets/screenshots/VOID2) | ![Agent Response](assets/screenshots/VOID1) |
+
+---
+
+## **Installation**
+
+1. **Clone the repository**
+   ```sh
+   git clone https://github.com/DhruvChaurasia9403/artificial_intelegence.git
+   cd artificial_intelligence

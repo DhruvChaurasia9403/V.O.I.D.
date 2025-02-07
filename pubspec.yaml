@@ -35,6 +35,13 @@ dependencies:
   dio:
   lottie:
   image_picker:
+  flutter_launcher_icons:
+
+
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/images/app_icon.jpg"
 
 
 

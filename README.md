@@ -1,4 +1,4 @@
-# **artificial_intelegence**
+# **artificial_intelligence**
 
 A Flutter-based AI chatbot application powered by **Gemini AI**, designed to provide real-time AI-generated responses with a sleek UI.
 
@@ -14,9 +14,11 @@ A Flutter-based AI chatbot application powered by **Gemini AI**, designed to pro
 
 ## **Screenshots**
 
-| Chat Screen                          | Background Blur when typing              | Loading Animation when AI is typing      | AI Response with User Message               |
-|--------------------------------------|------------------------------------------|------------------------------------------|---------------------------------------------|
-| ![Chat UI](assets/screenshots/VOID4) | ![AI Response](assets/screenshots/VOID3) | ![Loading Animation](assets/screenshots/VOID2) | ![Agent Response](assets/screenshots/VOID1) |
+| Chat Screen                              | Background Blur when Typing                  | Loading Animation while AI is Typing     | AI Response with User Message                |
+|------------------------------------------|----------------------------------------------|------------------------------------------|----------------------------------------------|
+| ![Chat UI](assets/screenshots/VOID4.png) | ![Blur Effect](assets/screenshots/void3.png) | ![Loading](assets/screenshots/VOID2.png) | ![AI Response](assets/screenshots/VOID1.png) |
+
+*(Make sure these images exist in `assets/screenshots/` before committing!)*
 
 ---
 
@@ -25,4 +27,4 @@ A Flutter-based AI chatbot application powered by **Gemini AI**, designed to pro
 1. **Clone the repository**
    ```sh
    git clone https://github.com/DhruvChaurasia9403/artificial_intelegence.git
-   cd artificial_intelligence
+   cd artificial_intelegence
